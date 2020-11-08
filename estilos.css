@@ -56,3 +56,35 @@ body{
     color: #9edadfa8;
     font-size: small;
 }
+}
+
+.container-pu{
+    display: flex;
+    width: 100%;
+    margin: 100px auto;
+    justify-content: space-between;
+  
+}
+
+.items-pu{
+    width: 50%;
+    justify-content: space-between;
+}
+
+#vi{
+    width: 40%;
+}
+
+.container-video{
+    display: flex;
+    width: 100%;
+    margin: 100px auto;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items-videos{
+    width: 50%;
+}
+
