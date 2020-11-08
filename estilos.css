@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(77, 167, 85, 0.493);
+    background-color: rgba(223, 248, 225, 0.493);
 }
 .container{
     width: 100%;
@@ -56,13 +56,13 @@ body{
     color: #9edadfa8;
     font-size: small;
 }
-}
 
 .container-pu{
     display: flex;
     width: 100%;
     margin: 100px auto;
     justify-content: space-between;
+    align-items: center;
   
 }
 
